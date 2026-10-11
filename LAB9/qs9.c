@@ -3,7 +3,6 @@
 #include <limits.h>
 
 #define MAX 100
-
 /*
 Algorithm: Optimal Alphabetic Binary Tree
 (Dynamic Programming Validation)
